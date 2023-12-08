@@ -1,12 +1,11 @@
 :root{
-    --primarycolor: #ff274b;
+    --primarycolor: #27ffed;
     --secoundrycolor: #f7bcf7;
     --lightcolor: #ffffff;
     --bgcolor-1: #171a1c;
     --bgcolor-2: #22282a;
     --padding: 8%;
 }
-
 
 *{
     margin: 0;
@@ -19,6 +18,7 @@ html{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 16px;
     color: var(--lightcolor);
+    scroll-behavior: smooth;
 }
 
 /* -----------------------
@@ -357,6 +357,7 @@ footer .content-footer .end{
 }
 html{
     font-size: 13px;
+    scroll-padding-top: 82px;
 }
 .home .container-images{
     display: none;
@@ -470,6 +471,7 @@ footer .content-footer p{
 }
 html{
     font-size: 13px;
+    scroll-padding-top: 82px;
 }
 .home .container-images{
     display: none;
@@ -579,6 +581,7 @@ footer .content-footer p{
 }
 html{
     font-size: 13px;
+    scroll-padding-top: 82px;
 }
 .home .container-images{
     display: none;
@@ -685,6 +688,7 @@ footer .content-footer p{
 }
 html{
     font-size: 13px;
+    scroll-padding-top: 82px;
 }
 
 .home .container-images img{
