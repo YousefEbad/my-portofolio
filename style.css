@@ -363,6 +363,11 @@ html{
     display: none;
 }
 
+.home .btn{
+    position: relative;
+    bottom: 40px;
+}
+
 nav{
     position: fixed;
     top: 0;
@@ -382,7 +387,7 @@ nav > a{
 nav ul li{
     display: block;
     text-align: center;
-    margin: 60px;
+    margin: 40px;
 }
 
 nav ul{
@@ -403,7 +408,8 @@ nav ul.is-active{
 }
 
 .social{
-    margin-top: 70px;
+    margin-top: 0px;
+
 }
 
 h3{
@@ -496,7 +502,7 @@ nav > a{
 nav ul li{
     display: block;
     text-align: center;
-    margin: 60px;
+    margin: 40px;
 }
 
 nav ul{
@@ -627,7 +633,7 @@ nav ul.is-active{
 }
 
 .social{
-    margin-top: 70px;
+    margin-top: 40px;
 }
 
 h3{
