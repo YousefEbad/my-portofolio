@@ -520,10 +520,32 @@ nav ul.is-active{
 
 .container-texts{
     bottom: 0;
+    margin: 0;
+}
+
+.home h4{
+    font-size: 20px;
+    bottom: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.home h1{
+    font-size: 45px;
+    bottom: 30px;
+}
+
+.home .btn{
+    position: relative;
+    bottom: 10px;
 }
 
 .social{
-    margin-top: 30px;
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+    margin-top: 10px;
+    margin-right: 8px;
 }
 
 h3{
